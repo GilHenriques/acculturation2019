@@ -1,0 +1,2 @@
+Simulation[[:space:]]code/** filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]-[[:space:]]simulation[[:space:]]results[[:space:]]used[[:space:]]for[[:space:]]figures/** filter=lfs diff=lfs merge=lfs -text
